@@ -1,7 +1,8 @@
 # trade-store
-# Trade Store is software to store the trade request sumbitted by user before placing it to stock market, It stores the trade in the following order
 
+Trade Store is software to store the trade request sumbitted by user before placing it to stock market, It stores the trade in the following order
 Trade Id	Version	Counter-Party Id	Book-Id	Maturity Date	Created Date	Expired
+
 T1	1	CP-1	B1	20/05/2020	<today date>	N
 T2	2	CP-2	B1	20/05/2021	<today date>	N
 T2	1	CP-1	B1	20/05/2021	14/03/2015	N
