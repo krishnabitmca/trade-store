@@ -1,5 +1,7 @@
 # trade-store
+
 [![Build Status](https://travis-ci.org/krishnabitmca/trade-store.svg?branch=master)](https://travis-ci.org/krishnabitmca/trade-store)
+
 Trade Store is software to store the trade request sumbitted by user before placing it to stock market, It stores the trade in the following order
 Trade Id	Version	Counter-Party Id	Book-Id	Maturity Date	Created Date	Expired
 
